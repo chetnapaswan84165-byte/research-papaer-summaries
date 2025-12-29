@@ -1,2 +1,3 @@
-# research-papaer-summaries
-Summaries and notes from bioinformatics and genomics research papers
+This repository contains my Data Analysis on Biology datasets. 
+Focus areas includes data analysis for biological and genomic datasets.
+Its include Python scripts, jupyter notebooks and Data experiments.
