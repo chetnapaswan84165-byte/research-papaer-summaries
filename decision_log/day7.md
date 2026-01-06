@@ -13,4 +13,11 @@ Extending codon table show output by of different codon forms in 3 differnt fram
 
 # What limitation still exist 
 It still exists limitations such as Codon table is now not fully completed. A lot of codon addition in codon table is required to put in it to improve result much better.
-It has lefted to show any symbol specifying that this codon code for that amino acid.  
+It has lefted to show any symbol specifying that this codon code for that amino acid. 
+
+
+
+
+# Before Day 8 this thought I want to work on
+# One place I would refactor if time given
+I would improve my python learning, and also I want to study deeply so I can remember eveything in detailed way, wahtever I had done till this day. I want to improve my learning in Biology and also in python coding so that from next time if I had to create any function I can create it easily and get accurate result. For improving my knowledge and my learning in computational biology.
