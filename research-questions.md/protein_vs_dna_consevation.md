@@ -1,0 +1,5 @@
+# Why do biologists trust protein conservation more than DNA conservation when annotating genes across species?
+Biologist trust more on protein conservation because protein plays major role in all cellular level functions. DNA conservation not considered more important because DNA is further converted into RNA then protein at lastly, and that protein works for doing functions in organisms. 
+Biologist trust protein conservation more than DNA conservation because natural selection acts primarily on protein function. 
+Due to the degeneracy(many nucleotides or codons code for same amino acid) of the genetic code, many nucleotide changes are synonymous and do not alter the amino acid sequnce.
+As a result, NA sequnce can diverge significantly while the protein sequnce and function remain conserved. Protein conservation therefore reflects functional constraint and evolutionary importance more accurately than nucleotide similarity, making it a more reliable indicator when annotating genes across species.
